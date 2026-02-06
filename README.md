@@ -2,6 +2,8 @@
 
 A GTK4 Layer Shell popup widget for Waybar that shows world clocks across multiple timezones. Built for [omarchy](https://github.com/nichochar/omarchy).
 
+<img width="1080" height="463" alt="screenshot-1080x463" src="https://github.com/user-attachments/assets/162423a4-23a8-4a5d-a68c-c7b49922bb61" />
+
 ## Features
 
 - Search and add cities from a database of 80+ major cities (plus full IANA timezone fallback)
