@@ -1,0 +1,4 @@
+#!/bin/bash
+# Toggle Omarchy Timezones popup
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+exec env LD_PRELOAD=/usr/lib/libgtk4-layer-shell.so python3 "$SCRIPT_DIR/timezones.py"
